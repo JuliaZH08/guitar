@@ -1,0 +1,23 @@
+{
+  "name": "guitar",
+  "version": "1.0.0",
+  "description": "site about guitar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaZH08/guitar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaZH08/guitar/issues"
+  },
+  "homepage": "https://github.com/JuliaZH08/guitar#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
